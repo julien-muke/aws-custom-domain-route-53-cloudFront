@@ -1,10 +1,10 @@
-# ![aws](https://github.com/julien-muke/Search-Engine-Website-using-AWS/assets/110755734/01cd6124-8014-4baa-a5fe-bd227844d263) 🔒 Add Custom Domain and HTTPS to Your React App on AWS S3
+# ![aws](https://github.com/julien-muke/Search-Engine-Website-using-AWS/assets/110755734/01cd6124-8014-4baa-a5fe-bd227844d263) 🔒 React App CI/CD Deployment on S3 with Custom Domain & HTTPS using Route 53 + CloudFront
 
 <div align="center">
 
   <br />
     <a href="https://youtu.be/o4fNDCAqyzM" target="_blank">
-      <img src="https://github.com/user-attachments/assets/9692b53b-d569-4f6b-a959-39a4dac923a0" alt="Project Banner">
+      <img src="https://github.com/user-attachments/assets/f6dfe3d2-55c3-4af3-a96c-95f136fedf7b" alt="Project Banner">
     </a>
   <br />
 
