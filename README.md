@@ -42,7 +42,7 @@ This project builds upon [Part 1: CI/CD Pipeline for React App on AWS](https://y
 • Amazon S3 (static site hosting)<br>
 • AWS CodePipeline (CI/CD)<br>
 • AWS Certificate Manager (SSL/TLS)<br>
-• Amazon CloudFront (CDN + HTTPS)<br>  
+• Amazon CloudFront (CDN + HTTPS)<br>
 • Amazon Route 53 (DNS)<br>
 
 ## <a name="pre">✅ Prerequisites</a>
