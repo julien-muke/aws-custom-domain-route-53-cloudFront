@@ -4,7 +4,7 @@
 
   <br />
     <a href="https://youtu.be/o4fNDCAqyzM" target="_blank">
-      <img src="https://github.com/user-attachments/assets/f6dfe3d2-55c3-4af3-a96c-95f136fedf7b" alt="Project Banner">
+      <img src="https://github.com/user-attachments/assets/a24a9c1f-0c85-474a-87ac-c1dc359a2c02" alt="Project Banner">
     </a>
   <br />
 
