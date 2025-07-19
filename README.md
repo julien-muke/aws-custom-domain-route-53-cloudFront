@@ -27,7 +27,7 @@ like these step-by-step in a beginner-friendly manner!
 
 ## <a name="introduction">🤖 Introduction</a>
 
-This project builds upon [Part 1: CI/CD Pipeline for React App on AWS](#) by securing the deployed app with a custom domain and SSL/TLS encryption using AWS Route 53, CloudFront, and ACM.
+This project builds upon [Part 1: CI/CD Pipeline for React App on AWS](https://youtu.be/1k6s4shjpRc) by securing the deployed app with a custom domain and SSL/TLS encryption using AWS Route 53, CloudFront, and ACM.
 
 
 ## <a name="steps">🌐 Features</a>
